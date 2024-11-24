@@ -27,3 +27,12 @@ https://iuroc.github.io/bpb-host/rules.txt
 ## 订阅转换
 
 https://acl4ssr-sub.github.io/
+
+## 发现域名
+
+[443 端口](https://fofa.info/result?qbase64=aWNvbl9oYXNoPSItMTM1NDAyNzMxOSIgJiYgYXNuPSIxMzMzNSIgJiYgcG9ydD0iNDQzIg%3D%3D)
+[80 端口](https://fofa.info/result?qbase64=aWNvbl9oYXNoPSItMTM1NDAyNzMxOSIgJiYgYXNuPSIxMzMzNSIgJiYgcG9ydD0iODAi)
+
+## 参考文章
+
+[批量获取免费的VPN节点，用不完真用不完….. BPB-Worker-Panel 面板BUG利用！！](https://www.freedidi.com/17131.html)
