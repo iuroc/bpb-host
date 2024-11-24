@@ -1,6 +1,6 @@
-# bpb-host
+# BPB Panel Hosts
 
-## Script
+## 构建脚本
 
 ```javascript
 const hosts = `
@@ -17,3 +17,7 @@ const rules = hosts.split('\n').filter(i => i.trim()).map(host => {
 
 console.log(rules)
 ```
+
+## 订阅转换
+
+https://acl4ssr-sub.github.io/
