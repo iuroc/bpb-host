@@ -1,0 +1,5 @@
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=s1.asrnoor.ir&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=s1.asrnoor.ir&path=%2Ftr%3Fed%3D2560#s1.asrnoor.ir
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=x.asrnoor.ir&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=x.asrnoor.ir&path=%2Ftr%3Fed%3D2560#x.asrnoor.ir
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=p.asrnoor.ir&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=p.asrnoor.ir&path=%2Ftr%3Fed%3D2560#p.asrnoor.ir
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=f.asrnoor.ir&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=f.asrnoor.ir&path=%2Ftr%3Fed%3D2560#f.asrnoor.ir
+trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=test.xiao888.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=test.xiao888.us.kg&path=%2Ftr%3Fed%3D2560#test.xiao888.us.kg
