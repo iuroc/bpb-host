@@ -9,16 +9,14 @@ x.asrnoor.ir
 p.asrnoor.ir
 f.asrnoor.ir
 test.xiao888.us.kg
-bpb.obstructing.us.kg
-bpb.shuiling.us.kg
-b.irazur.ggff.net
 bwp.ittot.us.kg
 anjwang.us.kg
 zou886699.us.kg
 leon001.ggff.net
-smrbpb.pages.dev
 bpb.6889692.us.kg
 plusmusicsg.vmsys.ggff.net
+fcspring.ggff.net
+bpb.my79801.com
 `
 const rules = hosts.split('\n').filter(i => i.trim()).map(host => {
     return `trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=${host}&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=${host}&path=%2Ftr%3Fed%3D2560#${host}`
