@@ -26,15 +26,14 @@ console.log(btoa(rules))
 
 ## 订阅地址
 
-运行上方脚本，将生成的 Base64 写入到 rules.txt 文件，然后将下面的地址输入到订阅转换工具。
-
-```
-https://iuroc.github.io/bpb-host/rules.txt
-```
+1. 运行上面的脚本，生成 Base64 订阅信息
+2. 将订阅信息覆盖本仓库的 rules.txt 文件
+3. 启用本仓库的 Pages 服务
+4. 将订阅地址 `https://iuroc.github.io/bpb-host/rules.txt` 填入订阅转换工具，获得订阅链接
 
 ## 订阅转换
 
-https://acl4ssr-sub.github.io/
+[https://acl4ssr-sub.github.io/](https://acl4ssr-sub.github.io/)
 
 ## 发现域名
 
