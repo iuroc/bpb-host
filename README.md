@@ -4,19 +4,16 @@
 
 ```javascript
 const hosts = `
-s1.asrnoor.ir
-x.asrnoor.ir
-p.asrnoor.ir
-f.asrnoor.ir
-test.xiao888.us.kg
-bwp.ittot.us.kg
+sixbox.ahotapp.com
+b.yawuni.us.kg
+bpb27.unixtea.com
+yw.xn--ghqy4wtm5b.us.kg
+ymrb.xiangyanlian.dynv6.net
+2412.sun2412.us.kg
+bpb1.850425.xyz
 anjwang.us.kg
-zou886699.us.kg
 leon001.ggff.net
-bpb.6889692.us.kg
 plusmusicsg.vmsys.ggff.net
-fcspring.ggff.net
-bpb.my79801.com
 `
 const rules = hosts.split('\n').filter(i => i.trim()).map(host => {
     return `trojan://bpb-trojan@www.vpslook.com:443?security=tls&sni=${host}&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=${host}&path=%2Ftr%3Fed%3D2560#${host}`
